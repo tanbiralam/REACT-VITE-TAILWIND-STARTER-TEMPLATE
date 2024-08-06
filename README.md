@@ -46,8 +46,5 @@ Feel free to modify the `App.jsx` file to start building your application. The d
 
 If you'd like to contribute to this template, please feel free to fork the repository and submit a pull request. All contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Enjoy coding with your shiny new template! 🚀
