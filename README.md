@@ -17,8 +17,6 @@ Welcome to React Vite Tailwind CSS template! 🎉 This is a basic setup to get y
    cd REACT-VITE-TAILWIND-STARTER-TEMPLATE
    ```
 
-````
-
 2. **Install Dependencies**
 
    ```bash
@@ -53,7 +51,3 @@ If you'd like to contribute to this template, please feel free to fork the repos
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Enjoy coding with your shiny new template! 🚀
-
-
-
-````
